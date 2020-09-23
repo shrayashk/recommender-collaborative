@@ -1,1 +1,1 @@
-# recommender-user-based
+# recommender-collaborative
